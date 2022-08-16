@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653051211 source:d:\code blocks\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1653052397 source:d:\code blocks\bank_capital_nb_d_annee_taux\main.c
+	<stdio.h>
+	<stdlib.h>
+
